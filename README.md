@@ -9,6 +9,11 @@ My name is Aiden! I'm an Electrical Engineering Student at Brigham Young Univers
   - 🪪 I've gotten a GFACT certification in cybersecurity
   - 🇨🇱  I lived in Chile for two years and speak Spanish as a second language!
 
+# Skills
+  - I program in C, C++, C#, Python, CSS, and HTML
+  - I use Affinity _(Similar to Adobe Illustator, Photoshop, and Indesign)_
+  - Professional Working Spanish
+
 <!--
 **baidenm22/baidenm22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
