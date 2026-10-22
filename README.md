@@ -3,8 +3,8 @@
 My name is Aiden! I'm an Electrical Engineering Student at Brigham Young University, minoring in Mathematics and Computer Science. 
 
 # Facts about me! 
-  - 👨🏻‍🔧 I'm currently working on redesigning and improving my RC project (With a whole lot more experience and schooling)
-  - 🎮 I've always loved to create and design video games for fun
+  - 👨🏻‍🔧 I'm currently working on redesigning and improving my RC car project
+  - 🎮 I always love to create and design video games for fun
   - 🎨 I love drawing and painting
   - 🪪 I've gotten a GFACT certification in cybersecurity
   - 🇨🇱  I lived in Chile for two years and speak Spanish as a second language!
